@@ -1,0 +1,3 @@
+item1,kg,100
+item2,kg,200
+item3,kg,300

@@ -1,0 +1,3 @@
+storage1,street1,123,20000
+storage2,street2,456,20000
+storage3,street3,789,20000
