@@ -405,10 +405,10 @@ while True:
             items.create(name, type, qua)
         elif option == 7:
             name = input("Назва: ")
-            count = input("Адреса: ")
-            date_start = input("Номер телефону: ")
-            spicialty = input("Місткість: ")
-            storages.create(name, count, date_start, spicialty)
+            address = input("Адреса: ")
+            phone = input("Номер телефону: ")
+            capacity = input("Місткість: ")
+            storages.create(name, address, phone, capacity)
         elif option == 8:
             name = str(input("Введіть назву товару: "))
             items.delete(name)
